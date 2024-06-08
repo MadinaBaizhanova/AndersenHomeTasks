@@ -1,6 +1,9 @@
 package runner;
 
 import entity.Ticket;
+import enums.StadiumSector;
+
+import java.math.BigDecimal;
 
 public class TicketService {
 
@@ -22,9 +25,9 @@ public class TicketService {
     public static final String EXAMPLE_CONCERT_HALL = "Hall 1";
     public static final int EXAMPLE_TICKET_DATE_TIME = 1717999200;
     public static final int EXAMPLE_EVENT_CODE = 111;
-    public static final char EXAMPLE_STADIUM_SECTOR = 'B';
+    public static final StadiumSector EXAMPLE_STADIUM_SECTOR = StadiumSector.A;
     public static final double EXAMPLE_MAX_BACKPACK_WEIGHT = 3.5;
-    public static final double EXAMPLE_PRICE = 59.9;
+    public static final BigDecimal EXAMPLE_PRICE = BigDecimal.valueOf(59.9);
 
     public static void main(String[] args) {
 
