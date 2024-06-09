@@ -114,6 +114,10 @@ public class Ticket {
         return stadiumSector;
     }
 
+    public StadiumSector getStadiumSector(StadiumSector stadiumSector) {
+        return this.stadiumSector = stadiumSector;
+    }
+
     public void setStadiumSector(StadiumSector stadiumSector) {
         this.stadiumSector = stadiumSector;
     }

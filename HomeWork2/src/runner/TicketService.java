@@ -7,6 +7,8 @@ import java.math.BigDecimal;
 
 public class TicketService {
 
+
+
     public static final String EMPTY_TICKET = "Empty Ticket: ";
     public static final String LIMITED_TICKET = "Limited Ticket: ";
     public static final String FULL_TICKET = "Full Ticket: ";
@@ -28,6 +30,7 @@ public class TicketService {
     public static final StadiumSector EXAMPLE_STADIUM_SECTOR = StadiumSector.A;
     public static final double EXAMPLE_MAX_BACKPACK_WEIGHT = 3.5;
     public static final BigDecimal EXAMPLE_PRICE = BigDecimal.valueOf(59.9);
+
 
     public static void main(String[] args) {
 
@@ -62,5 +65,9 @@ public class TicketService {
                            + MAX_BACKPACK_WEIGHT_KG + fullTicket.getMaxBackpackWeight() + NEW_LINE
                            + PRICE_$ + fullTicket.getPrice() + NEW_LINE
                            + TICKET_CREATION_TIME + fullTicket.getFormattedCreationTime());
+
+
+        Ticket ticketForStadiumSector = new Ticket();
+        System.out.print("Stadium Sector Ticket " + ticketForStadiumSector.getStadiumSector(StadiumSector.B));
     }
 }
