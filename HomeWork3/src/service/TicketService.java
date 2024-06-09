@@ -29,4 +29,8 @@ public class TicketService {
             tickets.put(id, new Ticket(id, HALL + i, EVENT_CODE + i, TICKET_DATE_TIME, false, STADIUM_SECTOR, MAX_BACKPACK_WEIGHT, PRICE));
         }
     }
+
+    public Ticket getTicketById(String ticketId) {
+        return tickets.get(ticketId);
+    }
 }
