@@ -6,6 +6,7 @@ import enums.StadiumSector;
 import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class TicketService {
@@ -32,5 +33,11 @@ public class TicketService {
 
     public Ticket getTicketById(String ticketId) {
         return tickets.get(ticketId);
+    }
+
+    public List<Ticket> getTicketsByStadiumSector(StadiumSector stadiumSector) {
+        return tickets.values().stream()
+                .filter(ticket -> ticket.getStadiumSector() == stadiumSector)
+                .toList();
     }
 }
