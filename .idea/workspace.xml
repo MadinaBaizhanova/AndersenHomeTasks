@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8592485-d63a-4d40-aba9-71e48dce78a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/HomeWork5/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/main/java/entity/BusTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/main/java/reader/BusTicketReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/main/java/runner/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/main/java/util/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/main/java/validator/BusTicketValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork5/src/main/resources/tickets.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AndersenHomeTasks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AndersenHomeTasks.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2i5y8WvZxENMM9naOiEvOYZVGsB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BusTicketReader.executor": "Run",
+    "Application.HelloWorld.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TicketService.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "JFB-4",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mabai/OneDrive/Desktop/PERSONAL/dev/AndersenHomeTasks/HomeWork5/src/main/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2045977",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mabai\OneDrive\Desktop\PERSONAL\dev\AndersenHomeTasks\HomeWork5\src\main\java" />
+      <recent name="C:\Users\mabai\OneDrive\Desktop\PERSONAL\dev\AndersenHomeTasks\HomeWork4_4\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mabai\OneDrive\Desktop\PERSONAL\dev\AndersenHomeTasks\HomeWork5" />
+      <recent name="C:\Users\mabai\OneDrive\Desktop\PERSONAL\dev\AndersenHomeTasks" />
+      <recent name="C:\Users\mabai\OneDrive\Desktop\PERSONAL\dev\AndersenHomeTasks\HomeWork3_3\src" />
+      <recent name="C:\Users\mabai\OneDrive\Desktop\PERSONAL\dev\AndersenHomeTasks\HomeWork3_3" />
+      <recent name="C:\Users\mabai\OneDrive\Desktop\PERSONAL\dev\AndersenHomeTasks\HomeWork4_4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="BusTicketReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="reader.BusTicketReader" />
+      <module name="HomeWork5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="reader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="HomeWork1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.Main" />
+      <module name="HomeWork5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.Main" />
+      <module name="AndersenHomeTasks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="runner.TicketService" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TicketService" />
+        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.BusTicketReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8592485-d63a-4d40-aba9-71e48dce78a0" name="Changes" comment="" />
+      <created>1718794573758</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718794573758</updated>
+      <workItem from="1718794574867" duration="16419000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
