@@ -5,6 +5,9 @@ out/
 !**/src/test/**/out/
 !**/src/test/**/TODO.md
 
+# Ignore build output directory in HomeWork5 module
+HomeWork5/target/
+
 ### Eclipse ###
 .apt_generated
 .classpath
