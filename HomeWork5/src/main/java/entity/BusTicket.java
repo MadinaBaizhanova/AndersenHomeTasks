@@ -2,10 +2,10 @@ package entity;
 
 public class BusTicket {
 
-    String ticketClass;
-    String ticketType;
-    String startDate;
-    String price;
+    private String ticketClass;
+    private String ticketType;
+    private String startDate;
+    private String price;
 
     public BusTicket() {
     }
