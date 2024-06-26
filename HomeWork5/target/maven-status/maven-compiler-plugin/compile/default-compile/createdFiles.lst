@@ -1,5 +1,0 @@
-entity\BusTicket.class
-util\Constants.class
-reader\BusTicketReader.class
-runner\Main.class
-validator\BusTicketValidator.class
