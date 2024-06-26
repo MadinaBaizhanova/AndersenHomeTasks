@@ -1,8 +1,12 @@
 ### IntelliJ IDEA ###
+.idea/
 out/
-!**/src/main/**/out/
+!HomeWork5_5/src/main/**/out/
 !**/src/test/**/out/
 !**/src/test/**/TODO.md
+
+# Ignore build output directory in HomeWork5 module
+HomeWork5/target/
 
 ### Eclipse ###
 .apt_generated
@@ -13,7 +17,7 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
+!HomeWork5_5/src/main/**/bin/
 !**/src/test/**/bin/
 
 ### NetBeans ###
