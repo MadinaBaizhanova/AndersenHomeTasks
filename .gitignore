@@ -3,6 +3,9 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 !**/src/test/**/TODO.md
+.idea/
+HomeWork5/target/
+HomeWork6/target/
 
 ### Eclipse ###
 .apt_generated
